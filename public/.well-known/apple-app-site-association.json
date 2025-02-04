@@ -1,10 +1,13 @@
 {
+  "activitycontinuation": {
+    "apps": ["84CV6372CX.com.tanuki-pay"]
+  },
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "com.tanuki-pay",
-        "paths": ["*", "/"]
+        "appID": "84CV6372CX.com.tanuki-pay",
+        "paths": ["/app/*"]
       }
     ]
   }
