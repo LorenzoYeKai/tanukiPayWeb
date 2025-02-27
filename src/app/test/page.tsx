@@ -11,13 +11,6 @@ const page = () => {
         width={500}
         height={500}
       />
-      <Image
-        src="/logo.png"
-        alt="Logo"
-        className="h-full"
-        width={500}
-        height={500}
-      />
     </div>
   );
 };
